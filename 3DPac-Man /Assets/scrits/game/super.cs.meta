@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b04d42e6282935746850ecfca5d8b35f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StartPanel: {instanceID: 0}
+  - GamePanel: {instanceID: 0}
+  - startCountDownPrefab: {instanceID: 0}
+  - gameoverPrefab: {instanceID: 0}
+  - WinPrefab: {instanceID: 0}
+  - startClip: {instanceID: 0}
+  - remaintext: {instanceID: 0}
+  - nowtext: {instanceID: 0}
+  - scoretext: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
