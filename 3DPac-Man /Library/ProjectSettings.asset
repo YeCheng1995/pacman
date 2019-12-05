@@ -609,10 +609,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: b71caac4-7d4a-4964-854d-3dcb7260c13c
+  cloudProjectId: 91fa2096-9443-4d3d-aa9e-2c1217aca24e
   framebufferDepthMemorylessMode: 0
-  projectName: 3DPac-Man
-  organizationId: wechat_os_qy05w6lsf6i0zcrjvnuqnkq4g
+  projectName: 3DPac-Man (1)
+  organizationId: cyrilcheng1995
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
