@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{72D39483-AF1E-0918-987D-F7F65147D443}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scrits/game/guardmove.cs">
+    <Files>
+      <File FileName="Assets/scrits/game/EnemyMove.cs" Line="204" Column="36" />
+      <File FileName="Assets/scrits/game/guardmove.cs" Line="94" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2ae151c2-e359-4d8a-88eb-409a8437c5d9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
